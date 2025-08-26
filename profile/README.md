@@ -1,6 +1,8 @@
-## Who Am I?
+## Who Am I? 
 
-I am a software engineer with a heavy background in mathematics. 
+I am working as a full-stack software engineer with a heavy mathematics background. I enjoy working on complex problems and learning about new technologies, especially ones that involve clever computational techniques. I'm always up to working on new problems. 
+
+Get in touch if there is anything you want to know. I'll enjoy talking about just about anything.
 
 ### Contact me 
 [LinkedIn](www.linkedin.com/in/jeffrey-houghton-a92b95353)
